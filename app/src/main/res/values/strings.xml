@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="test_lab">Test Lab</string>
+    <string name="doctor">Doctor</string>
+    <string name="articels">Articels</string>
+    <string name="chat_bot">Chat Bot</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="appointment">Appointment</string>
+    <string name="newuser">New User? Create Account</string>
+    <string name="already">Already Registered? Login here</string>
+    <string name="back">Back</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">name</string>
+    <string name="hello">Hello</string>
+    <string name="phoneno">Phone no</string>
+    <string name="address">Address</string>
+    <string name="profile">Profile</string>
+    <string name="emergency">Emergency</string>
+    <string name="eye_special">Eye Specialist</string>
+    <string name="child_special">Child Specialist</string>
+    <string name="heart_surgen">Heart Surgeon</string>
+    <string name="dentist">Dentist</string>
+    <string name="pharmacist">Pharmacist</string>
+    <string name="orthopedic">Orthopedic Surgeon</string>
+    <string name="snake_bite">Snake Bite</string>
+    <string name="heart_attact">Heart Attack</string>
+    <string name="first_aid">First Aid</string>
+    <string name="mental_health">Mental Health</string>
+    <string name="fitness">Fitness</string>
+    <string name="health_habits">Health Habits</string>
+    <string name="national">National Emergency Number</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="poison_control">Poison Control Center</string>
+    <string name="blood_bank">Blood Bank</string>
+    <string name="logout">Logout</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="test_lab">टेस्टलैब</string>
+    <string name="doctor">डाक्टर</string>
+    <string name="articels">सूचना</string>
+    <string name="chat_bot">चैटबॉट</string>
+    <string name="login">लॉगिन</string>
+    <string name="home">होम</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="newuser">नया उपयोगकर्ता? खाता बनाएँ</string>
+    <string name="already">पहले से ही रजिस्टर्ड? यहां लॉगिन करें</string>
+    <string name="back">बैक</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="register">रजिस्टर</string>
+    <string name="name">नाम</string>
+    <string name="hello">नमस्कार</string>
+    <string name="phoneno">फोन नं</string>
+    <string name="address">पता</string>
+    <string name="notification">नोटिफिकेशन</string>
+    <string name="appointment">अपॉइंटमेंट</string>
+    <string name="emergency">आपातकालीन</string>
+    <string name="eye_special">नेत्र विशेषज्ञ</string>
+    <string name="child_special">बाल विशेषज्ञ</string>
+    <string name="heart_surgen">हार्ट सर्जन</string>
+    <string name="dentist">दंत-चिकित्‍सालय</string>
+    <string name="pharmacist">औषधकारक</string>
+    <string name="orthopedic">आर्थोपेडिक सर्जन</string>
+    <string name="snake_bite">सांप का काटना</string>
+    <string name="heart_attact">हार्ट अटैक</string>
+    <string name="first_aid">प्राथमिक चिकित्‍सा</string>
+    <string name="mental_health">मानसिक स्वास्थ्य</string>
+    <string name="fitness">फिटनेस</string>
+    <string name="health_habits">स्वास्थ्य की आदतें</string>
+    <string name="national">राष्ट्रीय आपातकालीन नंबर</string>
+    <string name="ambulance">एम्‍बुलेंस</string>
+    <string name="poison_control">जहर नियंत्रण केंद्र</string>
+    <string name="blood_bank">ब्लड बैंक</string>
+    <string name="logout">लॉगआउट</string>
+
+
+    </resources>
