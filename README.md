@@ -9,19 +9,39 @@ The Rural Health Care App is designed to provide essential healthcare services t
 Secure user authentication to protect personal data.
 
 # 2. Test Lab
-Users can access various health checkups including: Blood Checkup Mental Health Checkup Dental Checkup Eye Checkup X-rays and MRI Scans Urine Test Thyroid Test
+Users can access various health checkups including: 
+1. Blood Checkup
+2. Mental Health Checkup
+3. Dental Checkup
+4. Eye Checkup
+5. X-rays and MRI Scans
+6. Urine Test
+7. Thyroid Test
 
-# 3. Connect Doctor
-Book appointments with specialists: Eye Specialist Child Specialist Heart Surgeon Dentist View doctor's education and credentials in the about section of their profile. Rate and review doctors.
+# 3. Connect Doctor 
+1. Separation of Doctors Based on Their Specialization
+  1] Eye Specialist
+  2] Child Specialist
+  3] Heart Surgeon
+  4] Dentist
+2. Book appointments
+3. See the doctor's qualifications and educational background in the profile's about section.
+4. Rate and review doctors.
 
 # 4. Articles
-Informative videos and articles on: Emergency situations (e.g., snake bites, heart attacks) First aid tips Educational content to increase health awareness.
+Informative videos and articles on: 
+ 1. Emergency situations (e.g., snake bites, heart attacks)
+ 2.  First aid tips
+ 3.  Educational content to increase health awareness.
 
 # 5. Emergency Contact
-Quick access to emergency contacts such as: Ambulance Poison Control Blood Bank
+Quick access to emergency contacts such as: 
+1. Ambulance
+2. Poison Control
+3. Blood Bank
 
 # 6. ChatBot
-A chatbot feature to solve user queries and provide quick assistance. Installation To run this project locally, follow these steps:
+A chatbot feature to solve user queries and provide quick assistance. 
 
 # Technologies Used
 Programming Language: Kotlin Framework: Jetpack Compose Backend: Firebase (for authentication and database)
