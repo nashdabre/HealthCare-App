@@ -19,10 +19,10 @@ Users can access various health checkups including:
 7. Thyroid Test
 
 # 3. Connect Doctor 
-1. Separation of Doctors Based on Their Specialization
-  1] Eye Specialist
-  2] Child Specialist
-  3] Heart Surgeon
+1. Separation of Doctors Based on Their Specialization:
+  1] Eye Specialist,
+  2] Child Specialist,
+  3] Heart Surgeon,
   4] Dentist
 2. Book appointments
 3. See the doctor's qualifications and educational background in the profile's about section.
@@ -44,7 +44,9 @@ Quick access to emergency contacts such as:
 A chatbot feature to solve user queries and provide quick assistance. 
 
 # Technologies Used
-Programming Language: Kotlin Framework: Jetpack Compose Backend: Firebase (for authentication and database)
+Programming Language: Kotlin 
+Framework: Jetpack Compose 
+Backend: Firebase (for authentication and database)
 
 # Contributing
 We welcome contributions! Please follow these steps to contribute:
