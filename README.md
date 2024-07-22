@@ -45,7 +45,9 @@ A chatbot feature to solve user queries and provide quick assistance.
 
 # Technologies Used
 Programming Language: Kotlin 
+
 Framework: Jetpack Compose 
+
 Backend: Firebase (for authentication and database)
 
 # Contributing
