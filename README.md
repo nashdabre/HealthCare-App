@@ -43,6 +43,9 @@ Quick access to emergency contacts such as:
 # 6. ChatBot
 A chatbot feature to solve user queries and provide quick assistance. 
 
+# 7. Multiple Language Support
+The app offers support for multiple languages, ensuring accessibility for users from diverse linguistic backgrounds.
+
 # Technologies Used
 Programming Language: Kotlin 
 
