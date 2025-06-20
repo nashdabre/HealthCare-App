@@ -62,6 +62,12 @@ Create a new branch:
 
 bash Copy code git checkout -b feature-branch Make your changes and commit them: bash Copy code git commit -m 'Add new feature' Push to the branch: bash Copy code git push origin feature-branch Create a pull request.
 
-# Contact
-For any questions or feedback, please contact us at nashdabre2@gamil.com
+
+## Contact
+
+Feel free to connect with me via the contact form on the site or through:
+
+- 📧 Email: [nashdabrework@gmail.com](mailto:nashdabrework@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nash-dabre-56a3a226a)
+- 🧑‍💻 [GitHub](https://github.com/nashdabre)
 
